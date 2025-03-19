@@ -1,0 +1,3 @@
+/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW2/PointQuadtreeBasedCityLocator/cmake-build-debug/CMakeFiles/PointQuadtreeBasedCityLocator.dir
+/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW2/PointQuadtreeBasedCityLocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW2/PointQuadtreeBasedCityLocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

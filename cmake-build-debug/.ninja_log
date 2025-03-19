@@ -1,0 +1,6 @@
+# ninja log v5
+1	374	1742384448354197730	CMakeFiles/PointQuadtreeBasedCityLocator.dir/source.cpp.o	72967c4fe981bacc
+0	377	1742384448357238197	CMakeFiles/PointQuadtreeBasedCityLocator.dir/Quadtree.cpp.o	6d1a44444b5596d0
+377	413	1742384448394817680	PointQuadtreeBasedCityLocator	4411d011ba66504c
+3	520	1742384751553700244	CMakeFiles/PointQuadtreeBasedCityLocator.dir/source.cpp.o	72967c4fe981bacc
+520	619	1742384751654748578	PointQuadtreeBasedCityLocator	4411d011ba66504c
